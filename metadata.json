@@ -1,0 +1,6 @@
+{
+  "name": "MQTT Multi-Broker Node",
+  "description": "Multi-connection MQTT client dashboard connecting to Eclipse Mosquitto and Flespi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
